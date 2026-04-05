@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "3.0.13",
+      "installedAt": 1775300042288
+    },
+    "Skill-Vetter": {
+      "version": "1.0.0",
+      "installedAt": 1775301482137
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1775301602039
+    },
+    "Github": {
+      "version": "1.0.0",
+      "installedAt": 1775301661279
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1775301841997
+    },
+    "Humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1775302382111
+    },
+    "Notion": {
+      "version": "1.0.0",
+      "installedAt": 1775302442150
+    },
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1775306369028
+    },
+    "memos": {
+      "version": "0.1.1",
+      "installedAt": 1775325483527
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1775335503859
+    },
+    "find-skills-skill": {
+      "version": "1.0.0",
+      "installedAt": 1775335622176
+    },
+    "liang-tavily-search": {
+      "version": "1.0.1",
+      "installedAt": 1775335742043
+    },
+    "summarize-pro": {
+      "version": "1.0.0",
+      "installedAt": 1775336642047
+    },
+    "yantianlong-superpowers": {
+      "version": "1.0.0",
+      "installedAt": 1775336821350
+    },
+    "react": {
+      "version": "1.0.4",
+      "installedAt": 1775337242039
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1775337483280
+    },
+    "auto-updater-1-0-0": {
+      "version": "1.0.0",
+      "installedAt": 1775337842745
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1775338144085
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1775338262011
+    },
+    "capability-evolver": {
+      "version": "1.41.0",
+      "installedAt": 1775338987417
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1775340182750
+    },
+    "skill-finder-cn": {
+      "version": "1.0.1",
+      "installedAt": 1775363522338
+    },
+    "word-docx": {
+      "version": "1.0.2",
+      "installedAt": 1775364121656
+    },
+    "excel-xlsx": {
+      "version": "1.0.2",
+      "installedAt": 1775364302909
+    },
+    "powerpoint-pptx": {
+      "version": "1.0.1",
+      "installedAt": 1775364362389
+    },
+    "playwright-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1775364602857
+    },
+    "nano-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1775364901826
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1775365622322
+    },
+    "baidu-search-1-1-3": {
+      "version": "1.0.0",
+      "installedAt": 1775369282771
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1775372042278
+    },
+    "data-analysis": {
+      "version": "1.0.2",
+      "installedAt": 1775372702263
+    }
+  }
+}
